@@ -14,9 +14,8 @@ https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/str
 https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/882/
 https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/883/
 https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/885/
-https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/887/
 https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/553/
-https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/603/
+
 https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/771/
 https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/772/
 https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/773/
@@ -58,8 +57,6 @@ https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/b
 https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/797/
 https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/798/
 https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/799/
-
-https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/801/
 https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/802/
 https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/803/
 https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/804/
